@@ -32,3 +32,13 @@ student_management_system/
 - Understood Python file handling and modular programming
 - Learned SQLite database connectivity
 - Improved problem-solving and debugging skills
+## Screenshots
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Add Student
+![Add Student](screenshots/add_student.png)
+
+### View Students
+![View Students](screenshots/view_students.png)
