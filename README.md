@@ -35,10 +35,10 @@ student_management_system/
 ## Screenshots
 
 ### Main Menu
-![Menu](screenshots/menu.png)
+![Menu]
 
 ### Add Student
-![Add Student](screenshots/add_student.png)
+![Add Student]
 
 ### View Students
-![View Students](screenshots/view_students.png)
+![View Students]
